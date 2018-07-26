@@ -1,1 +1,2 @@
 # springinactionchapter03
+这个自动装配好牛逼，应用范围好广，尤其是对于解耦方面，环境配置我没有看，第二节的test也没有正确运行出结果，因为我不知道在哪里将配置设置为magic，但是写的代码应该是没有问题的，第二节后面还给出了profile的源代码，即根据condition和conditional实现的，好牛逼
